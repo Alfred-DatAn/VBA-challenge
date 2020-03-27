@@ -1,0 +1,1 @@
+This project analyzes real stock market data.
