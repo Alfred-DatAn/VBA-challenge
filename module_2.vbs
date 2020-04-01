@@ -1,4 +1,3 @@
-Attribute VB_Name = "Módulo2"
 Sub Greatest()
 
 'Variables declaration
@@ -58,5 +57,6 @@ Next
 Range("P2:Q2") = Array(ti_hi, FormatPercent(highest))
 Range("P3:Q3") = Array(ti_low, FormatPercent(lowest))
 Range("P4:Q4") = Array(ti_stock, max_stock)
+
 
 End Sub

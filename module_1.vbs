@@ -1,5 +1,5 @@
-Attribute VB_Name = "Módulo1"
 Sub yearly_overview()
+
 
 'Variables declaration
 Dim index As Long
@@ -72,7 +72,6 @@ Do While IsEmpty(Cells(index_three, 10)) = False
     End If
     index_three = index_three + 1
 Loop
-
 
 
 End Sub
